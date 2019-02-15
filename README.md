@@ -6,9 +6,10 @@ Recently Image recogntion has joined forces with another cutting-edge technology
 
 A lot of people have really bad memories and they just could not remember a new face. It is really awkward that when someone is waiving at you at the end of the hallway and calling your name, but you just could not remember his/her name. What if there's an App which could help you to jog your memory?  
 This is a project which combines Augmented Reality and Image Recognition.    
-[ ] Facial Detection on an image
-[ ] Facial Detection on webcam
-[ ] Display right image information
+
+- [ ] Facial Detection on an image    
+- [ ] Facial Detection on webcam    
+- [ ] Display right image information
 
 ## Requriments: 
 Python3 (3.5++ is recommended)
