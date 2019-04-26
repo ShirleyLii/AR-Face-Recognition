@@ -1,5 +1,6 @@
 # AR-Face-Recognition
 
+## Please email me at yli224@stevens.edu for the new private repository link to this project! Thank you!! 
 [![python3.6](https://img.shields.io/badge/python-3.6-brightgreen.svg)]()
 
 Recently Image recogntion has joined forces with another cutting-edge technology - augmented reality - to create an entire differnt world that provides both an entertaining and commercial value.
