@@ -1,6 +1,6 @@
 # Face-Recognition-With-OpenCV
 
-## Please email me at yli224@stevens.edu for the new private repository link https://github.com/ShirleyLii/Face-Recognition-with-OpenCV-and-Python to this project! Thank you!! 
+## Please email me at yli224@stevens.edu for the access to new private repository link https://github.com/ShirleyLii/Face-Recognition-with-OpenCV-and-Python (this project)! Thank you!! 
 
 [![python3.6](https://img.shields.io/badge/python-3.6-brightgreen.svg)]()
 
